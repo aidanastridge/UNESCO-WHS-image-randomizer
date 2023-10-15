@@ -1,2 +1,2 @@
-# UNESCO-WHS-image-randomizer
-UNESCO WHS image randomizer
+# UNESCO World History Site Image Randomizer
+
